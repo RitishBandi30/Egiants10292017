@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;dist&apos; to &apos;SpringJPAMySQLAngular4/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;Angular4Client&apos;&#x0D;&#x0A;- Destination element: &apos;SpringJPAMySQLAngular4/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;dist&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" destination="=SpringJPAMySQLAngular4/src\/main\/resources" element1="dist" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1509339416883" units="0" version="1.0"/>
+</session>
