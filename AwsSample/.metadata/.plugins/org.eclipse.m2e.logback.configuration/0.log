@@ -1,0 +1,510 @@
+2017-10-31 11:24:19,355 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-31 11:24:20,349 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.pom
+2017-10-31 11:24:20,404 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.pom
+2017-10-31 11:24:20,478 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.jar
+2017-10-31 11:24:20,596 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.jar
+2017-10-31 11:24:21,755 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amazonaws.samples:aws-java-sample:1.0 @ C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\pom.xml.
+2017-10-31 11:24:22,152 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk/1.9.6/aws-java-sdk-1.9.6.pom
+2017-10-31 11:24:22,212 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk/1.9.6/aws-java-sdk-1.9.6.pom
+2017-10-31 11:24:22,252 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-pom/1.9.6/aws-java-sdk-pom-1.9.6.pom
+2017-10-31 11:24:22,301 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-pom/1.9.6/aws-java-sdk-pom-1.9.6.pom
+2017-10-31 11:24:22,347 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elastictranscoder/1.9.6/aws-java-sdk-elastictranscoder-1.9.6.pom
+2017-10-31 11:24:22,395 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elastictranscoder/1.9.6/aws-java-sdk-elastictranscoder-1.9.6.pom
+2017-10-31 11:24:22,488 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.9.6/aws-java-sdk-core-1.9.6.pom
+2017-10-31 11:24:22,530 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.9.6/aws-java-sdk-core-1.9.6.pom
+2017-10-31 11:24:22,593 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3/httpclient-4.3.pom
+2017-10-31 11:24:22,640 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3/httpclient-4.3.pom
+2017-10-31 11:24:22,684 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3/httpcomponents-client-4.3.pom
+2017-10-31 11:24:22,764 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3/httpcomponents-client-4.3.pom
+2017-10-31 11:24:22,856 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3.pom
+2017-10-31 11:24:22,921 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3.pom
+2017-10-31 11:24:22,965 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3/httpcomponents-core-4.3.pom
+2017-10-31 11:24:23,014 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3/httpcomponents-core-4.3.pom
+2017-10-31 11:24:23,143 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.2/jackson-databind-2.3.2.pom
+2017-10-31 11:24:23,201 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.2/jackson-databind-2.3.2.pom
+2017-10-31 11:24:23,319 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2017-10-31 11:24:23,402 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2017-10-31 11:24:23,475 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2017-10-31 11:24:23,529 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2017-10-31 11:24:23,603 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2017-10-31 11:24:23,681 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2017-10-31 11:24:23,824 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.pom
+2017-10-31 11:24:23,898 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.pom
+2017-10-31 11:24:24,582 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/maven-metadata.xml
+2017-10-31 11:24:24,690 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/maven-metadata.xml
+2017-10-31 11:24:24,833 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.2/joda-time-2.2.pom
+2017-10-31 11:24:24,905 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.2/joda-time-2.2.pom
+2017-10-31 11:24:24,949 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.pom
+2017-10-31 11:24:25,039 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.pom
+2017-10-31 11:24:25,085 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.4/joda-time-2.4.pom
+2017-10-31 11:24:25,162 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.4/joda-time-2.4.pom
+2017-10-31 11:24:25,206 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.pom
+2017-10-31 11:24:25,296 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.5/joda-time-2.5.pom
+2017-10-31 11:24:25,338 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.6/joda-time-2.6.pom
+2017-10-31 11:24:25,506 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.6/joda-time-2.6.pom
+2017-10-31 11:24:25,588 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom
+2017-10-31 11:24:25,681 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.7/joda-time-2.7.pom
+2017-10-31 11:24:25,773 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.8/joda-time-2.8.pom
+2017-10-31 11:24:25,822 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.8/joda-time-2.8.pom
+2017-10-31 11:24:25,861 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2017-10-31 11:24:25,988 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2017-10-31 11:24:26,034 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9/joda-time-2.9.pom
+2017-10-31 11:24:26,172 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9/joda-time-2.9.pom
+2017-10-31 11:24:26,217 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.1/joda-time-2.9.1.pom
+2017-10-31 11:24:26,287 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.1/joda-time-2.9.1.pom
+2017-10-31 11:24:26,331 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2.pom
+2017-10-31 11:24:26,400 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.2/joda-time-2.9.2.pom
+2017-10-31 11:24:26,450 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.3/joda-time-2.9.3.pom
+2017-10-31 11:24:26,569 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.3/joda-time-2.9.3.pom
+2017-10-31 11:24:26,656 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.4/joda-time-2.9.4.pom
+2017-10-31 11:24:26,768 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.4/joda-time-2.9.4.pom
+2017-10-31 11:24:26,893 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.5/joda-time-2.9.5.pom
+2017-10-31 11:24:26,988 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.5/joda-time-2.9.5.pom
+2017-10-31 11:24:27,039 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom
+2017-10-31 11:24:27,153 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom
+2017-10-31 11:24:27,210 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.7/joda-time-2.9.7.pom
+2017-10-31 11:24:27,311 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.7/joda-time-2.9.7.pom
+2017-10-31 11:24:27,393 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.8/joda-time-2.9.8.pom
+2017-10-31 11:24:27,462 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.8/joda-time-2.9.8.pom
+2017-10-31 11:24:27,508 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.9/joda-time-2.9.9.pom
+2017-10-31 11:24:27,612 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.9/joda-time-2.9.9.pom
+2017-10-31 11:24:27,656 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.9.6/aws-java-sdk-ec2-1.9.6.pom
+2017-10-31 11:24:27,711 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.9.6/aws-java-sdk-ec2-1.9.6.pom
+2017-10-31 11:24:27,804 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-config/1.9.6/aws-java-sdk-config-1.9.6.pom
+2017-10-31 11:24:27,857 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-config/1.9.6/aws-java-sdk-config-1.9.6.pom
+2017-10-31 11:24:27,897 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-emr/1.9.6/aws-java-sdk-emr-1.9.6.pom
+2017-10-31 11:24:27,971 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-emr/1.9.6/aws-java-sdk-emr-1.9.6.pom
+2017-10-31 11:24:28,044 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-swf-libraries/1.9.6/aws-java-sdk-swf-libraries-1.9.6.pom
+2017-10-31 11:24:28,165 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-swf-libraries/1.9.6/aws-java-sdk-swf-libraries-1.9.6.pom
+2017-10-31 11:24:28,213 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpleworkflow/1.9.6/aws-java-sdk-simpleworkflow-1.9.6.pom
+2017-10-31 11:24:28,261 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpleworkflow/1.9.6/aws-java-sdk-simpleworkflow-1.9.6.pom
+2017-10-31 11:24:28,334 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-opsworks/1.9.6/aws-java-sdk-opsworks-1.9.6.pom
+2017-10-31 11:24:28,386 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-opsworks/1.9.6/aws-java-sdk-opsworks-1.9.6.pom
+2017-10-31 11:24:28,443 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.9.6/aws-java-sdk-kinesis-1.9.6.pom
+2017-10-31 11:24:28,495 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.9.6/aws-java-sdk-kinesis-1.9.6.pom
+2017-10-31 11:24:28,564 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticloadbalancing/1.9.6/aws-java-sdk-elasticloadbalancing-1.9.6.pom
+2017-10-31 11:24:28,608 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticloadbalancing/1.9.6/aws-java-sdk-elasticloadbalancing-1.9.6.pom
+2017-10-31 11:24:28,648 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticache/1.9.6/aws-java-sdk-elasticache-1.9.6.pom
+2017-10-31 11:24:28,688 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticache/1.9.6/aws-java-sdk-elasticache-1.9.6.pom
+2017-10-31 11:24:28,734 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitosync/1.9.6/aws-java-sdk-cognitosync-1.9.6.pom
+2017-10-31 11:24:28,770 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitosync/1.9.6/aws-java-sdk-cognitosync-1.9.6.pom
+2017-10-31 11:24:28,813 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpledb/1.9.6/aws-java-sdk-simpledb-1.9.6.pom
+2017-10-31 11:24:28,848 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpledb/1.9.6/aws-java-sdk-simpledb-1.9.6.pom
+2017-10-31 11:24:28,886 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.9.6/aws-java-sdk-sts-1.9.6.pom
+2017-10-31 11:24:28,926 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.9.6/aws-java-sdk-sts-1.9.6.pom
+2017-10-31 11:24:28,980 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-importexport/1.9.6/aws-java-sdk-importexport-1.9.6.pom
+2017-10-31 11:24:29,016 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-importexport/1.9.6/aws-java-sdk-importexport-1.9.6.pom
+2017-10-31 11:24:29,062 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudtrail/1.9.6/aws-java-sdk-cloudtrail-1.9.6.pom
+2017-10-31 11:24:29,096 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudtrail/1.9.6/aws-java-sdk-cloudtrail-1.9.6.pom
+2017-10-31 11:24:29,177 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatchmetrics/1.9.6/aws-java-sdk-cloudwatchmetrics-1.9.6.pom
+2017-10-31 11:24:29,229 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatchmetrics/1.9.6/aws-java-sdk-cloudwatchmetrics-1.9.6.pom
+2017-10-31 11:24:29,274 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatch/1.9.6/aws-java-sdk-cloudwatch-1.9.6.pom
+2017-10-31 11:24:29,313 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatch/1.9.6/aws-java-sdk-cloudwatch-1.9.6.pom
+2017-10-31 11:24:29,351 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.9.6/aws-java-sdk-dynamodb-1.9.6.pom
+2017-10-31 11:24:29,385 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.9.6/aws-java-sdk-dynamodb-1.9.6.pom
+2017-10-31 11:24:29,428 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.9.6/aws-java-sdk-s3-1.9.6.pom
+2017-10-31 11:24:29,480 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.9.6/aws-java-sdk-s3-1.9.6.pom
+2017-10-31 11:24:29,519 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.9.6/aws-java-sdk-kms-1.9.6.pom
+2017-10-31 11:24:29,556 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.9.6/aws-java-sdk-kms-1.9.6.pom
+2017-10-31 11:24:29,595 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-route53/1.9.6/aws-java-sdk-route53-1.9.6.pom
+2017-10-31 11:24:29,655 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-route53/1.9.6/aws-java-sdk-route53-1.9.6.pom
+2017-10-31 11:24:29,735 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-storagegateway/1.9.6/aws-java-sdk-storagegateway-1.9.6.pom
+2017-10-31 11:24:29,823 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-storagegateway/1.9.6/aws-java-sdk-storagegateway-1.9.6.pom
+2017-10-31 11:24:29,938 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ses/1.9.6/aws-java-sdk-ses-1.9.6.pom
+2017-10-31 11:24:30,113 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ses/1.9.6/aws-java-sdk-ses-1.9.6.pom
+2017-10-31 11:24:30,298 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-support/1.9.6/aws-java-sdk-support-1.9.6.pom
+2017-10-31 11:24:30,438 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-support/1.9.6/aws-java-sdk-support-1.9.6.pom
+2017-10-31 11:24:30,566 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudfront/1.9.6/aws-java-sdk-cloudfront-1.9.6.pom
+2017-10-31 11:24:30,642 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudfront/1.9.6/aws-java-sdk-cloudfront-1.9.6.pom
+2017-10-31 11:24:30,770 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudformation/1.9.6/aws-java-sdk-cloudformation-1.9.6.pom
+2017-10-31 11:24:30,861 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudformation/1.9.6/aws-java-sdk-cloudformation-1.9.6.pom
+2017-10-31 11:24:30,957 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-directconnect/1.9.6/aws-java-sdk-directconnect-1.9.6.pom
+2017-10-31 11:24:31,016 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-directconnect/1.9.6/aws-java-sdk-directconnect-1.9.6.pom
+2017-10-31 11:24:31,061 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticbeanstalk/1.9.6/aws-java-sdk-elasticbeanstalk-1.9.6.pom
+2017-10-31 11:24:31,100 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticbeanstalk/1.9.6/aws-java-sdk-elasticbeanstalk-1.9.6.pom
+2017-10-31 11:24:31,141 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-redshift/1.9.6/aws-java-sdk-redshift-1.9.6.pom
+2017-10-31 11:24:31,183 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-redshift/1.9.6/aws-java-sdk-redshift-1.9.6.pom
+2017-10-31 11:24:31,233 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-datapipeline/1.9.6/aws-java-sdk-datapipeline-1.9.6.pom
+2017-10-31 11:24:31,298 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-datapipeline/1.9.6/aws-java-sdk-datapipeline-1.9.6.pom
+2017-10-31 11:24:31,355 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-lambda/1.9.6/aws-java-sdk-lambda-1.9.6.pom
+2017-10-31 11:24:31,414 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-lambda/1.9.6/aws-java-sdk-lambda-1.9.6.pom
+2017-10-31 11:24:31,462 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-autoscaling/1.9.6/aws-java-sdk-autoscaling-1.9.6.pom
+2017-10-31 11:24:31,498 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-autoscaling/1.9.6/aws-java-sdk-autoscaling-1.9.6.pom
+2017-10-31 11:24:31,540 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.9.6/aws-java-sdk-cognitoidentity-1.9.6.pom
+2017-10-31 11:24:31,585 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.9.6/aws-java-sdk-cognitoidentity-1.9.6.pom
+2017-10-31 11:24:31,721 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-iam/1.9.6/aws-java-sdk-iam-1.9.6.pom
+2017-10-31 11:24:31,762 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-iam/1.9.6/aws-java-sdk-iam-1.9.6.pom
+2017-10-31 11:24:31,802 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-glacier/1.9.6/aws-java-sdk-glacier-1.9.6.pom
+2017-10-31 11:24:31,844 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-glacier/1.9.6/aws-java-sdk-glacier-1.9.6.pom
+2017-10-31 11:24:31,881 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.9.6/aws-java-sdk-sqs-1.9.6.pom
+2017-10-31 11:24:31,920 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.9.6/aws-java-sdk-sqs-1.9.6.pom
+2017-10-31 11:24:31,964 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.9.6/aws-java-sdk-sns-1.9.6.pom
+2017-10-31 11:24:32,045 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.9.6/aws-java-sdk-sns-1.9.6.pom
+2017-10-31 11:24:32,101 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudsearch/1.9.6/aws-java-sdk-cloudsearch-1.9.6.pom
+2017-10-31 11:24:32,203 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudsearch/1.9.6/aws-java-sdk-cloudsearch-1.9.6.pom
+2017-10-31 11:24:32,319 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-logs/1.9.6/aws-java-sdk-logs-1.9.6.pom
+2017-10-31 11:24:32,365 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-logs/1.9.6/aws-java-sdk-logs-1.9.6.pom
+2017-10-31 11:24:32,423 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-codedeploy/1.9.6/aws-java-sdk-codedeploy-1.9.6.pom
+2017-10-31 11:24:32,465 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-codedeploy/1.9.6/aws-java-sdk-codedeploy-1.9.6.pom
+2017-10-31 11:24:32,513 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-rds/1.9.6/aws-java-sdk-rds-1.9.6.pom
+2017-10-31 11:24:32,568 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-rds/1.9.6/aws-java-sdk-rds-1.9.6.pom
+2017-10-31 11:24:32,762 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk/1.9.6/aws-java-sdk-1.9.6.jar
+2017-10-31 11:24:32,825 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk/1.9.6/aws-java-sdk-1.9.6.jar
+2017-10-31 11:24:32,871 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elastictranscoder/1.9.6/aws-java-sdk-elastictranscoder-1.9.6.jar
+2017-10-31 11:24:33,294 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elastictranscoder/1.9.6/aws-java-sdk-elastictranscoder-1.9.6.jar
+2017-10-31 11:24:33,361 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.9.6/aws-java-sdk-core-1.9.6.jar
+2017-10-31 11:24:33,782 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-core/1.9.6/aws-java-sdk-core-1.9.6.jar
+2017-10-31 11:24:33,890 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3/httpclient-4.3.jar
+2017-10-31 11:24:34,411 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3/httpclient-4.3.jar
+2017-10-31 11:24:34,455 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3.jar
+2017-10-31 11:24:34,725 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3.jar
+2017-10-31 11:24:34,772 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.2/jackson-databind-2.3.2.jar
+2017-10-31 11:24:35,428 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.2/jackson-databind-2.3.2.jar
+2017-10-31 11:24:35,474 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar
+2017-10-31 11:24:35,570 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar
+2017-10-31 11:24:35,648 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.jar
+2017-10-31 11:24:35,815 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.jar
+2017-10-31 11:24:35,889 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar
+2017-10-31 11:24:36,786 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar
+2017-10-31 11:24:36,858 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.9.6/aws-java-sdk-ec2-1.9.6.jar
+2017-10-31 11:24:37,594 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ec2/1.9.6/aws-java-sdk-ec2-1.9.6.jar
+2017-10-31 11:24:37,640 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-config/1.9.6/aws-java-sdk-config-1.9.6.jar
+2017-10-31 11:24:37,702 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-config/1.9.6/aws-java-sdk-config-1.9.6.jar
+2017-10-31 11:24:37,741 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-emr/1.9.6/aws-java-sdk-emr-1.9.6.jar
+2017-10-31 11:24:38,248 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-emr/1.9.6/aws-java-sdk-emr-1.9.6.jar
+2017-10-31 11:24:38,300 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-swf-libraries/1.9.6/aws-java-sdk-swf-libraries-1.9.6.jar
+2017-10-31 11:24:38,662 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-swf-libraries/1.9.6/aws-java-sdk-swf-libraries-1.9.6.jar
+2017-10-31 11:24:38,720 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpleworkflow/1.9.6/aws-java-sdk-simpleworkflow-1.9.6.jar
+2017-10-31 11:24:40,074 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpleworkflow/1.9.6/aws-java-sdk-simpleworkflow-1.9.6.jar
+2017-10-31 11:24:40,136 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-opsworks/1.9.6/aws-java-sdk-opsworks-1.9.6.jar
+2017-10-31 11:24:40,617 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-opsworks/1.9.6/aws-java-sdk-opsworks-1.9.6.jar
+2017-10-31 11:24:40,679 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.9.6/aws-java-sdk-kinesis-1.9.6.jar
+2017-10-31 11:24:40,740 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kinesis/1.9.6/aws-java-sdk-kinesis-1.9.6.jar
+2017-10-31 11:24:40,793 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticloadbalancing/1.9.6/aws-java-sdk-elasticloadbalancing-1.9.6.jar
+2017-10-31 11:24:41,025 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticloadbalancing/1.9.6/aws-java-sdk-elasticloadbalancing-1.9.6.jar
+2017-10-31 11:24:41,135 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticache/1.9.6/aws-java-sdk-elasticache-1.9.6.jar
+2017-10-31 11:24:41,576 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticache/1.9.6/aws-java-sdk-elasticache-1.9.6.jar
+2017-10-31 11:24:41,646 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitosync/1.9.6/aws-java-sdk-cognitosync-1.9.6.jar
+2017-10-31 11:24:41,764 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitosync/1.9.6/aws-java-sdk-cognitosync-1.9.6.jar
+2017-10-31 11:24:41,806 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpledb/1.9.6/aws-java-sdk-simpledb-1.9.6.jar
+2017-10-31 11:24:41,895 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-simpledb/1.9.6/aws-java-sdk-simpledb-1.9.6.jar
+2017-10-31 11:24:41,932 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.9.6/aws-java-sdk-sts-1.9.6.jar
+2017-10-31 11:24:41,991 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sts/1.9.6/aws-java-sdk-sts-1.9.6.jar
+2017-10-31 11:24:42,032 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-importexport/1.9.6/aws-java-sdk-importexport-1.9.6.jar
+2017-10-31 11:24:42,084 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-importexport/1.9.6/aws-java-sdk-importexport-1.9.6.jar
+2017-10-31 11:24:42,133 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudtrail/1.9.6/aws-java-sdk-cloudtrail-1.9.6.jar
+2017-10-31 11:24:42,186 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudtrail/1.9.6/aws-java-sdk-cloudtrail-1.9.6.jar
+2017-10-31 11:24:42,257 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatchmetrics/1.9.6/aws-java-sdk-cloudwatchmetrics-1.9.6.jar
+2017-10-31 11:24:42,350 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatchmetrics/1.9.6/aws-java-sdk-cloudwatchmetrics-1.9.6.jar
+2017-10-31 11:24:42,408 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatch/1.9.6/aws-java-sdk-cloudwatch-1.9.6.jar
+2017-10-31 11:24:42,462 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudwatch/1.9.6/aws-java-sdk-cloudwatch-1.9.6.jar
+2017-10-31 11:24:42,572 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.9.6/aws-java-sdk-dynamodb-1.9.6.jar
+2017-10-31 11:24:42,786 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-dynamodb/1.9.6/aws-java-sdk-dynamodb-1.9.6.jar
+2017-10-31 11:24:42,856 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-route53/1.9.6/aws-java-sdk-route53-1.9.6.jar
+2017-10-31 11:24:43,100 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-route53/1.9.6/aws-java-sdk-route53-1.9.6.jar
+2017-10-31 11:24:43,171 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-storagegateway/1.9.6/aws-java-sdk-storagegateway-1.9.6.jar
+2017-10-31 11:24:43,439 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-storagegateway/1.9.6/aws-java-sdk-storagegateway-1.9.6.jar
+2017-10-31 11:24:43,527 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ses/1.9.6/aws-java-sdk-ses-1.9.6.jar
+2017-10-31 11:24:43,661 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-ses/1.9.6/aws-java-sdk-ses-1.9.6.jar
+2017-10-31 11:24:43,722 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-support/1.9.6/aws-java-sdk-support-1.9.6.jar
+2017-10-31 11:24:43,947 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-support/1.9.6/aws-java-sdk-support-1.9.6.jar
+2017-10-31 11:24:44,024 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudfront/1.9.6/aws-java-sdk-cloudfront-1.9.6.jar
+2017-10-31 11:24:44,442 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudfront/1.9.6/aws-java-sdk-cloudfront-1.9.6.jar
+2017-10-31 11:24:44,491 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudformation/1.9.6/aws-java-sdk-cloudformation-1.9.6.jar
+2017-10-31 11:24:44,591 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudformation/1.9.6/aws-java-sdk-cloudformation-1.9.6.jar
+2017-10-31 11:24:44,647 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-directconnect/1.9.6/aws-java-sdk-directconnect-1.9.6.jar
+2017-10-31 11:24:44,739 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-directconnect/1.9.6/aws-java-sdk-directconnect-1.9.6.jar
+2017-10-31 11:24:44,779 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticbeanstalk/1.9.6/aws-java-sdk-elasticbeanstalk-1.9.6.jar
+2017-10-31 11:24:44,892 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-elasticbeanstalk/1.9.6/aws-java-sdk-elasticbeanstalk-1.9.6.jar
+2017-10-31 11:24:44,956 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-redshift/1.9.6/aws-java-sdk-redshift-1.9.6.jar
+2017-10-31 11:24:45,107 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-redshift/1.9.6/aws-java-sdk-redshift-1.9.6.jar
+2017-10-31 11:24:45,198 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-datapipeline/1.9.6/aws-java-sdk-datapipeline-1.9.6.jar
+2017-10-31 11:24:45,277 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-datapipeline/1.9.6/aws-java-sdk-datapipeline-1.9.6.jar
+2017-10-31 11:24:45,620 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-lambda/1.9.6/aws-java-sdk-lambda-1.9.6.jar
+2017-10-31 11:24:45,727 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-lambda/1.9.6/aws-java-sdk-lambda-1.9.6.jar
+2017-10-31 11:24:45,840 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-autoscaling/1.9.6/aws-java-sdk-autoscaling-1.9.6.jar
+2017-10-31 11:24:46,663 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-autoscaling/1.9.6/aws-java-sdk-autoscaling-1.9.6.jar
+2017-10-31 11:24:46,751 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.9.6/aws-java-sdk-cognitoidentity-1.9.6.jar
+2017-10-31 11:24:47,092 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cognitoidentity/1.9.6/aws-java-sdk-cognitoidentity-1.9.6.jar
+2017-10-31 11:24:47,221 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-iam/1.9.6/aws-java-sdk-iam-1.9.6.jar
+2017-10-31 11:24:47,648 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-iam/1.9.6/aws-java-sdk-iam-1.9.6.jar
+2017-10-31 11:24:47,696 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-glacier/1.9.6/aws-java-sdk-glacier-1.9.6.jar
+2017-10-31 11:24:47,807 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-glacier/1.9.6/aws-java-sdk-glacier-1.9.6.jar
+2017-10-31 11:24:47,863 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.9.6/aws-java-sdk-sqs-1.9.6.jar
+2017-10-31 11:24:47,968 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sqs/1.9.6/aws-java-sdk-sqs-1.9.6.jar
+2017-10-31 11:24:48,025 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.9.6/aws-java-sdk-sns-1.9.6.jar
+2017-10-31 11:24:48,201 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-sns/1.9.6/aws-java-sdk-sns-1.9.6.jar
+2017-10-31 11:24:48,385 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.9.6/aws-java-sdk-s3-1.9.6.jar
+2017-10-31 11:24:48,623 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.9.6/aws-java-sdk-s3-1.9.6.jar
+2017-10-31 11:24:48,674 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.9.6/aws-java-sdk-kms-1.9.6.jar
+2017-10-31 11:24:48,766 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-kms/1.9.6/aws-java-sdk-kms-1.9.6.jar
+2017-10-31 11:24:48,811 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudsearch/1.9.6/aws-java-sdk-cloudsearch-1.9.6.jar
+2017-10-31 11:24:49,008 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-cloudsearch/1.9.6/aws-java-sdk-cloudsearch-1.9.6.jar
+2017-10-31 11:24:49,050 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-logs/1.9.6/aws-java-sdk-logs-1.9.6.jar
+2017-10-31 11:24:49,130 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-logs/1.9.6/aws-java-sdk-logs-1.9.6.jar
+2017-10-31 11:24:49,176 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-codedeploy/1.9.6/aws-java-sdk-codedeploy-1.9.6.jar
+2017-10-31 11:24:49,364 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-codedeploy/1.9.6/aws-java-sdk-codedeploy-1.9.6.jar
+2017-10-31 11:24:49,415 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-rds/1.9.6/aws-java-sdk-rds-1.9.6.jar
+2017-10-31 11:24:49,916 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-rds/1.9.6/aws-java-sdk-rds-1.9.6.jar
+2017-10-31 11:24:54,007 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aws-java-sample/src/main/java
+2017-10-31 11:24:54,008 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aws-java-sample/src/test/java
+2017-10-31 11:24:54,885 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:24:54,886 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:24:54,894 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:24:54,894 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:24:55,668 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 36 sec
+2017-10-31 11:24:56,947 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:24:56,947 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:24:56,948 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:24:56,949 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:25:49,926 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:25:49,926 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:25:49,927 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:25:49,928 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:28:03,387 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:28:03,387 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:28:03,388 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:28:03,388 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:34:14,939 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:34:14,939 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:34:14,940 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:34:14,941 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:40:51,782 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:40:51,783 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:40:51,784 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:40:51,784 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:43:29,820 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:43:29,820 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:43:29,821 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:43:29,822 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:46:57,971 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:46:57,971 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:46:57,974 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:46:57,974 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:49:34,454 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:49:34,455 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:49:34,456 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:49:34,456 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:51:30,330 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.9.6/aws-java-sdk-s3-1.9.6-sources.jar
+2017-10-31 11:51:31,865 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/aws-java-sdk-s3/1.9.6/aws-java-sdk-s3-1.9.6-sources.jar
+2017-10-31 11:51:31,930 [Worker-33] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.amazonaws:aws-java-sdk-s3:1.9.6
+2017-10-31 11:51:32,312 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:51:32,312 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:51:32,313 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:51:32,314 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:58:55,040 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:58:55,041 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:58:55,042 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:58:55,042 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 11:59:37,432 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:59:37,432 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 11:59:37,434 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 11:59:37,435 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:01:41,533 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:01:41,534 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:01:41,535 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:01:41,535 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:04:59,960 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:04:59,960 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:04:59,961 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:04:59,961 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:07:01,537 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:07:01,537 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:07:01,538 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:07:01,538 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:08:45,378 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:08:45,379 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:08:45,386 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:08:45,386 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:28:39,754 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:28:39,755 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:28:39,756 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:28:39,756 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:29:39,903 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:29:39,903 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:29:39,905 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:29:39,905 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:30:37,388 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:30:37,388 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:30:37,389 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:30:37,389 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 12:31:22,428 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:31:22,428 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 12:31:22,429 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 12:31:22,429 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:03:53,709 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:03:53,709 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:03:53,710 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:03:53,711 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:04:17,023 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:04:17,023 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:04:17,025 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:04:17,025 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:07:31,125 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:07:31,126 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:07:31,127 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:07:31,127 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:09:48,141 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:09:48,142 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:09:48,143 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:09:48,143 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:20:48,686 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:20:48,686 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:20:48,688 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:20:48,689 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:25:56,606 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:25:56,606 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:25:56,607 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:25:56,607 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:27:29,192 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:27:29,193 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:27:29,194 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:27:29,194 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:27:45,587 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:27:45,587 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:27:45,588 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:27:45,588 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:29:08,171 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:29:08,171 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:29:08,172 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:29:08,173 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:31:33,148 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:31:33,148 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:31:33,149 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:31:33,150 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:32:02,645 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:32:02,646 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:32:02,646 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:32:02,647 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:35:38,410 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:35:38,410 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:35:38,412 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:35:38,412 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:41:23,315 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:41:23,315 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:41:23,316 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:41:23,317 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:43:19,240 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:43:19,240 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:43:19,244 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:43:19,247 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:44:38,777 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:44:38,777 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:44:38,778 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:44:38,779 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:48:34,427 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:48:34,427 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:48:34,428 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:48:34,428 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:49:04,636 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:49:04,636 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:49:04,637 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:49:04,637 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:51:43,778 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:51:43,779 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:51:43,780 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:51:43,780 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:53:45,810 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:53:45,810 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:53:45,812 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:53:45,812 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 13:54:48,039 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:54:48,039 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 13:54:48,040 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 13:54:48,040 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:00:24,698 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:00:24,698 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:00:24,699 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:00:24,699 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:02:06,750 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:02:06,750 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:02:06,751 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:02:06,751 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:02:58,334 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:02:58,334 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:02:58,336 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:02:58,336 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:09:24,350 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:09:24,350 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:09:24,351 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:09:24,351 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:12:11,485 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:12:11,485 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:12:11,486 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:12:11,486 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:13:17,455 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:13:17,455 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:13:17,456 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:13:17,456 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:14:25,439 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:14:25,439 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:14:25,440 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:14:25,440 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:17:39,333 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:17:39,333 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:17:39,334 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:17:39,334 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:23:53,755 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:23:53,755 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:23:53,756 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:23:53,756 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 14:24:14,926 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:24:14,926 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 14:24:14,927 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 14:24:14,927 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:35:31,475 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:35:31,475 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:35:31,476 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:35:31,477 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:36:48,014 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:36:48,014 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:36:48,015 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:36:48,015 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:36:53,747 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:36:53,747 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:36:53,748 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:36:53,748 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:37:08,764 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:37:08,764 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:37:08,765 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:37:08,765 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:37:53,246 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:37:53,246 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:37:53,247 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:37:53,247 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:38:02,965 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:38:02,965 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:38:02,966 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:38:02,966 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:38:09,348 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:38:09,348 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:38:09,349 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:38:09,350 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:38:26,652 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:38:26,653 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:38:26,654 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:38:26,654 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:41:37,708 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:41:37,708 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:41:37,709 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:41:37,709 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:42:07,787 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:42:07,787 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:42:07,788 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:42:07,788 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:42:46,803 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:42:46,803 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:42:46,804 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:42:46,805 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:45:17,117 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:45:17,117 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:45:17,118 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:45:17,118 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:45:21,841 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:45:21,841 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:45:21,842 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:45:21,842 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 15:46:16,901 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:46:16,901 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 15:46:16,904 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 15:46:16,905 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources

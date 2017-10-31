@@ -12,7 +12,7 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Mon, 30 Oct 2017 15:13:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Oct 2017 13:29:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -89,7 +89,7 @@
 		<category><![CDATA[angular 5 features]]></category>
 
 		<guid isPermaLink="false">https://www.genuitec.com/?p=540073</guid>
-		<description><![CDATA[<p>Front-end developers, rejoice &#8211; after a short delay, the Angular 5 release is scheduled for October 23rd!Update (October 27th): Unfortunately, Angular 5 hasn&#8217;t been released yet &#8211; the latest release in this stream is 5.0.0 RC 7, which was released earlier today. However, we&#8217;re sure the release is right around the corner &#8230; watch this space [&#8230;]</p>
+		<description><![CDATA[<p>Front-end developers, rejoice &#8211; after a short delay, the Angular 5 release is scheduled for October 23rd!Update (October 31st): Well, we&#8217;re still waiting for Angular version 5, and we&#8217;re now at 5.0.0 RC 9 &#8211; but, I&#8217;m sure you&#8217;d all rather have a high quality release, as opposed to a rushed one. Clearly, some key [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-5-release-imminent/">Angular 5 Features</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
@@ -310,9 +310,9 @@
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9441/9758 objects using disk
+Object Caching 9418/9785 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 45/50 queries in 0.012 seconds using disk
+Database Caching 9/100 queries in 1.643 seconds using disk
 
- Served from: www.genuitec.com @ 2017-10-30 11:34:31 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-10-31 10:48:29 by W3 Total Cache -->

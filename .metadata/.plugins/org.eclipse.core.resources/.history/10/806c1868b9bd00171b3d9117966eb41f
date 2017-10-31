@@ -1,0 +1,83 @@
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+
+$(document).ready(function() {
+   $('#estimate').click(estimate);
+   $('#DC').hide();
+   $('#MD').hide();
+});
+
+function estimate(){
+    $('#DC').hide();
+   $('#MD').hide();
+   DC9 = 50000;
+   MD83 = 75000;
+   TOP_OFF = 10000;
+   HALF = 5000;
+   MINIMUM = 1000;
+   WEIGHT = 150;
+   LIFE_RAFT = 150;
+   LIFE_VEST = 300;
+   var passengers = parseFloat($('#passengers').val());
+   var x = (Math.floor(Math.random(3)*3)
+           +1)*passengers;
+   var estimate = 0;
+   var allDataEntered = true;
+       if($('#type').val() === "DC9"){
+       estimate +=DC9;
+             }
+    else if ($('#type').val() === "MD83"){
+        estimate += MD83;
+    }  
+    else {
+        allDataEntered = false;
+        alert("Select the types of Aircraft");
+    }
+    
+    if($(":radio[id=topOff]:checked").val())
+        estimate += TOP_OFF;
+    
+    else if($(":radio[id=half]:checked").val())
+        estimate += HALF;
+    
+    else if($(":radio[id=minimum]:checked").val())
+        estimate += MINIMUM;
+    else{
+        allDataEntered = false;
+        alert("Required information is missing");
+    }
+if($('#passengers').val() === ""){
+    passengers=0;
+    x = (Math.floor(Math.random(3)*(Math.max(1,3)-Math.min(1,3)+1))
+           + Math.min(1,3))*passengers;
+}
+    if($(":checkbox[name=raft]:checked").val())
+        estimate += LIFE_RAFT;
+    
+    if($(":checkbox[name=vest]:checked").val())
+        estimate += LIFE_VEST;
+    
+    if(allDataEntered===true){
+       estimate += (passengers*WEIGHT);
+        $('#message').html("Estimate weight of the \n\
+aircraft is " + estimate + " lb");
+    $('#message1').html("Estimate boarding time for \n\
+the aircraft is " + x + " minutes");
+         if($('#type').val() === "DC9"){
+            $('body').css("background","pink");
+            $('#MD').hide();
+            $('#DC').slideDown(5000);
+      }
+    else if ($('#type').val() === "MD83"){
+        $('body').css("background","yellow");
+        $('#DC').hide();
+        $('#MD').slideDown(5000);
+    }  
+    }
+   
+    
+};

@@ -1,6 +1,8 @@
+aa98dc6d-8106-464e-b287-5052c8907910\:credentialProfileName=default
 cognitoIdentityId=us-east-1\:7bd8a5e1-7913-4b2b-a025-4c1c55d68424
 cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
-currentAccount=da162043-b594-4f45-a415-5f334d7761a9
+credentialProfileAccountIds=aa98dc6d-8106-464e-b287-5052c8907910
+currentAccount=aa98dc6d-8106-464e-b287-5052c8907910
 currentDefaultAccount=da162043-b594-4f45-a415-5f334d7761a9
 da162043-b594-4f45-a415-5f334d7761a9\:credentialProfileName=default
 ec2PreferencesImported=true

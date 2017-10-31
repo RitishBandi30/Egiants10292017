@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Bearcat Airlines</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="Bandi.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
+      </script>
+      <script src="Bandi.js"></script>
+    </head>
+    <body>
+        <h2>Bearcat Aircraft Weight Estimation Form</h2>
+        <p>Types of Aircraft
+            <select id="type">
+                <option value="none">Choose a Aircraft</option>
+                <option value="DC9">DC9</option>
+                <option value="MD83">MD83</option></select></p>
+                <fieldset><legend>Fuel Level</legend>
+                    <input type="radio" name="fuel" id="topOff">Top Off<br>
+                    <input type="radio" name="fuel" id="half">Half<br>
+                    <input type="radio" name="fuel" id="minimum">Minimum<br>
+                </fieldset><br>
+                <p>Total number of Passengers (0-100) 
+                    <input type="text" id="passengers">
+                </p><br>
+                <fieldset><legend>Additional Safety Equipment</legend>
+                    <input type="checkbox" id="raft">Life Raft<br>
+                    <input type="checkbox" id="vest">Life Vest<br>
+                 </fieldset><br>
+                 <input type="button" id="estimate" value="Estimate">  
+                 <p id="message" class="answer"></p>
+                 <p id="message1" class="answer"></p>
+                 <img class="img" id="DC" src="DC9.jpg">
+                 <img class="img" id="MD" src="MD83.jpg">
+    </body>
+</html>

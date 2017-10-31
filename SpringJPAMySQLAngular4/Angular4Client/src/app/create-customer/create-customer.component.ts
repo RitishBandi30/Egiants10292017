@@ -16,6 +16,7 @@ export class CreateCustomerComponent implements OnInit {
     private location: Location) {}
 
   ngOnInit() {
+    
   }
 
   newCustomer(): void {
