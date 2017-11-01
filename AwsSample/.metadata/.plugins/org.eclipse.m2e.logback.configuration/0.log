@@ -508,3 +508,11 @@
 2017-10-31 15:46:16,901 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
 2017-10-31 15:46:16,904 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-10-31 15:46:16,905 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-10-31 17:04:09,952 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 17:04:09,952 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-10-31 17:04:09,954 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-31 17:04:09,955 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
+2017-11-01 01:28:03,701 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-01 01:28:03,702 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\${env.HOME}\.aws
+2017-11-01 01:28:03,704 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-01 01:28:03,705 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ritis\Desktop\Egiants10292017\AwsSample\aws-java-sample\src\test\resources
